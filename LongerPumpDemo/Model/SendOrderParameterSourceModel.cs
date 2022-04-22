@@ -1,11 +1,4 @@
-﻿using GalaSoft.MvvmLight;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LongerPumpDemo.Model
+﻿namespace LongerPumpDemo.Model
 {
     public class SendOrderParameterSourceModel
     {

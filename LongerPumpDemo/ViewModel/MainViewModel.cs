@@ -1,12 +1,6 @@
 using GalaSoft.MvvmLight;
 using GalaSoft.MvvmLight.CommandWpf;
-using LongerPumpDemo.API;
 using LongerPumpDemo.Model;
-using System;
-using System.IO.Ports;
-using System.Text;
-using System.Windows;
-using System.Windows.Documents;
 using System.Windows.Input;
 
 namespace LongerPumpDemo.ViewModel

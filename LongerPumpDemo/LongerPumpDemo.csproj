@@ -69,7 +69,6 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="API\SendOrder.cs" />
     <Compile Include="API\StringExtensions.cs" />
     <Compile Include="Converter\OpenSerialPortConverter.cs" />
     <Compile Include="Converter\StringToBoolConverter.cs" />
