@@ -1,11 +1,11 @@
-﻿using LongerPumpDemo.API;
+﻿using SerialPortTool.API;
 using System;
 using System.IO.Ports;
 using System.Text;
 using System.Threading;
 using System.Windows;
 
-namespace LongerPumpDemo.Model
+namespace SerialPortTool.Model
 {
     public class SerialPortSendOrder
     {

@@ -2,7 +2,7 @@
 using GalaSoft.MvvmLight.CommandWpf;
 using System.Windows.Input;
 
-namespace LongerPumpDemo.Model
+namespace SerialPortTool.Model
 {
     public class SendOrderCheckedParameterModel : ObservableObject
     {

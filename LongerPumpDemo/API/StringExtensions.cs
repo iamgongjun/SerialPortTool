@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace LongerPumpDemo.API
+namespace SerialPortTool.API
 {
     public static class Extensions
     {

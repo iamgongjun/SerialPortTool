@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace LongerPumpDemo.Properties
+namespace SerialPortTool.Properties
 {
 
 

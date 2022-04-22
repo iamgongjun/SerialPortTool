@@ -2,7 +2,7 @@
 using System.Globalization;
 using System.Windows.Data;
 
-namespace LongerPumpDemo.Converter
+namespace SerialPortTool.Converter
 {
     public class StringToBoolConverter : IValueConverter
     {

@@ -1,9 +1,9 @@
 using GalaSoft.MvvmLight;
 using GalaSoft.MvvmLight.CommandWpf;
-using LongerPumpDemo.Model;
+using SerialPortTool.Model;
 using System.Windows.Input;
 
-namespace LongerPumpDemo.ViewModel
+namespace SerialPortTool.ViewModel
 {
     /// <summary>
     /// This class contains properties that the main View can data bind to.

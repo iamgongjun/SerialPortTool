@@ -2,7 +2,7 @@
 using CommonServiceLocator;
 using GalaSoft.MvvmLight.Ioc;
 
-namespace LongerPumpDemo.ViewModel
+namespace SerialPortTool.ViewModel
 {
     /// <summary>
     /// This class contains static references to all the view models in the

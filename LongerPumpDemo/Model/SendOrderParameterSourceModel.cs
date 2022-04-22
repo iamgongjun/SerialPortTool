@@ -1,4 +1,4 @@
-﻿namespace LongerPumpDemo.Model
+﻿namespace SerialPortTool.Model
 {
     public class SendOrderParameterSourceModel
     {
